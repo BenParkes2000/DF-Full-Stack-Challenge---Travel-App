@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6a"
+    },
+    "name": "Ben Parkes",
+    "email": "ben@email.com",
+    "password": "BenPassword",
+    "favLocations": ["London", "Birmingham", "Liverpool"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6b"
+    },
+    "name": "Simon Parkes",
+    "email": "simon@email.com",
+    "password": "SimonPassword",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6c"
+    },
+    "name": "Jess Parkes",
+    "email": "jess@email.com",
+    "password": "JessPassword",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6d"
+    },
+    "name": "Sam Parkes",
+    "email": "sam@email.com",
+    "password": "SamPassword",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6e"
+    },
+    "name": "Caroline Parkes",
+    "email": "caroline@email.com",
+    "password": "CarolinePassword",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  }
+]

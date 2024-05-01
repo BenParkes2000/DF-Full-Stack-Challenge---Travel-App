@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6a"
+    },
+    "name": "Ben Parkes",
+    "email": "ben@email.com",
+    "password": "$2b$10$RhXsCxSkEimexTt5jHdz5eqCw5PFkI8ksmP5ajyEv0O4Ap05nw9vq",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6b"
+    },
+    "name": "Simon Parkes",
+    "email": "simon@email.com",
+    "password": "$2b$10$acwzNi6g3p9LQu2dgm/MfOyv.HXxYd3X/SRU1hsBFVcHE.0eVQvVW",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6c"
+    },
+    "name": "Jess Parkes",
+    "email": "jess@email.com",
+    "password": "$2b$10$LhU24IfDMrXpJ7eNj5f1EOEpV5pxsOl2X2Jz7uJ9fwZuJ5ww4F09O",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6d"
+    },
+    "name": "Sam Parkes",
+    "email": "sam@email.com",
+    "password": "$2b$10$0Lv9lBQweD.TMSiEvVfS4us1hCvJnGclh/x.ho3v1Brk0ucADH.7W",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f9d559c3ee9388e8ed1e6e"
+    },
+    "name": "Caroline Parkes",
+    "email": "caroline@email.com",
+    "password": "$2b$10$nKsxkz9qnGIEiZ4hqMOL7e3n4QIJZx4.XmMIYUp28STtNFTvM8eYK",
+    "favLocations": ["London", "Birmingham"],
+    "__v": 0
+  }
+]

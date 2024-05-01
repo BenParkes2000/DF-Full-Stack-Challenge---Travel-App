@@ -1,0 +1,28 @@
+.heading-create-user {
+  margin-top: 60px;
+  padding: 200px;
+}
+
+.create-user-form {
+  max-width: 500px;
+  align-content: center;
+  padding-bottom: 50px;
+  min-width: 200px;
+}
+
+.create-user {
+  max-width: 500px;
+  min-width: 500px;
+}
+
+.create-user-page {
+  background-size: cover;
+  background-image: url("https://www.bsr.org/images/heroes/bsr-travel-hero..jpg");
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.detail {
+  padding-bottom: 25px;
+}

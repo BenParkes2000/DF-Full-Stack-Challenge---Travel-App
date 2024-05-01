@@ -1,0 +1,17 @@
+.heading {
+  margin-top: 60px;
+}
+
+.header-home {
+  padding-top: 200px;
+}
+
+.search {
+  max-width: 500px;
+}
+
+.home-page {
+  background-size: cover;
+  background-image: url("https://www.bsr.org/images/heroes/bsr-travel-hero..jpg");
+  height: 100vh;
+}

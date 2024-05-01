@@ -1,0 +1,30 @@
+.heading {
+  margin-top: 60px;
+}
+
+.header-weather {
+  padding-top: 20px;
+}
+
+.weather {
+  padding-top: 10px;
+}
+
+.day-one {
+  /* max-width: 600px; */
+  border: 10px, black;
+  font-size: x-large;
+  color: white;
+}
+
+.days2-5 {
+  font-size: large;
+  color: white;
+}
+
+.weather-page {
+  background-color: aqua;
+  background-size: cover;
+  background-image: url("https://www.bsr.org/images/heroes/bsr-travel-hero..jpg");
+  height: 100vh;
+}
